@@ -1,0 +1,46 @@
+
+
+.nav {
+    padding: 10px 40px 10px 40px;
+    
+}
+
+#floatright {
+    margin-left: 60%;
+    float: right;
+    margin-top: 60px;
+   
+}
+
+#floatleft{
+    float: left;
+    
+}
+
+a{
+    margin-left: 40px
+
+}
+
+h2{
+    font-style: italic;
+    font-size: 2rem;
+    color: tomato;
+
+}
+
+.middle{
+    padding: 40px 40px 40px 40px;
+    margin: 20px auto;
+
+}
+
+.form-control{
+    width: 30%;
+    margin: 20px 0px;
+    border-radius: 1.25rem
+}
+
+.account{
+    margin: 10% 0px;
+}
