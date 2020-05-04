@@ -1,8 +1,10 @@
-
+body {
+    background-image: url(https://sterlingboardingpass.com/AlternativeOnlineAccount/img/retros/sterling_retro_bg_4Copy.jpg);
+}
 
 .nav {
     padding: 10px 40px 10px 40px;
-    
+    background-color: #f8f9fa;
 }
 
 #floatright {
@@ -43,4 +45,18 @@ h2{
 
 .account{
     margin: 10% 0px;
+}
+
+.btn-primary{
+    color:black;
+    background-color: white;
+    border-color: black
+}
+
+.table-bordered {
+    margin-top: 50px;
+}
+
+#right {
+    float: right
 }
