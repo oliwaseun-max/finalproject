@@ -11,44 +11,39 @@ body {
     margin-left: 60%;
     float: right;
     margin-top: 60px;
-   
 }
 
-#floatleft{
+#floatleft {
     float: left;
-    
 }
 
-a{
+a {
     margin-left: 40px
-
 }
 
-h2{
+h2 {
     font-style: italic;
     font-size: 2rem;
     color: tomato;
-
 }
 
-.middle{
+.middle {
     padding: 40px 40px 40px 40px;
     margin: 20px auto;
-
 }
 
-.form-control{
+.form-control {
     width: 30%;
     margin: 20px 0px;
     border-radius: 1.25rem
 }
 
-.account{
+.account {
     margin: 10% 0px;
 }
 
-.btn-primary{
-    color:black;
+.btn-primary {
+    color: black;
     background-color: white;
     border-color: black
 }
@@ -59,4 +54,10 @@ h2{
 
 #right {
     float: right
+}
+
+.footer{
+    margin-left: 55%;
+    float: right;
+    margin-right: 3%
 }
