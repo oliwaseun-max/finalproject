@@ -22,6 +22,7 @@ a {
 }
 
 h2 {
+    margin: 20px 40px;
     font-style: italic;
     font-size: 2rem;
     color: tomato;
@@ -60,4 +61,68 @@ h2 {
     margin-left: 55%;
     float: right;
     margin-right: 3%
+}
+
+.midd {
+    margin-bottom: 130px;
+    margin-left: 390px;
+    max-width: 500px;
+    margin-top: 60px;
+}
+
+.inside{ 
+    padding: 0px 80px;
+}
+
+.login {
+    margin: 10px 85px;
+}
+
+.acco {
+    margin: 50px 85px;
+}
+
+.pass {
+    display: flex;
+    margin: 25px 0px;
+    border: 1px solid #dc3545;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.192);
+}
+
+#curve {
+    height: 50px;
+    margin-left: 15px;
+    border: none;
+    background: none;
+}
+
+.login {
+    margin: 10px 85px;
+}
+
+#right{ 
+    float: right;
+}
+
+#left {
+    float: left;
+}
+
+::placeholder {
+    color: black;
+}
+
+#button {
+    border-radius: 25px;
+    background-color: rgba(255, 95, 34, 0.21);
+    color: black;
+}
+
+#create {
+    margin: 0px;
+}
+
+#tton{
+    margin: 0px;
 }
