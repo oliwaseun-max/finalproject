@@ -126,3 +126,10 @@ h2 {
 #tton{
     margin: 0px;
 }
+
+.modal-body{
+    color: #202fec;
+    font-size: x-large;
+    font-style: italic;
+    align-self: center
+}
